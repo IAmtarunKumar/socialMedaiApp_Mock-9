@@ -1,0 +1,19 @@
+  "name": "tarun",
+  "email": "tarun@gmail.com",
+  "password": "tarun",
+  "dob": "2010-11-06",
+  "bio": "web developer"
+
+
+
+
+
+
+  ///////////////////////////
+
+  {
+  "text" : "Hi everyone good morning",
+  "image" : "img",
+  "createdAt" : "2001-09-15",
+  
+}
